@@ -1,0 +1,8 @@
+id_produto,nome_produto,preco_unitario,categoria,data_cadastro,estoque
+1,Caneta,2.5,Papelaria,2024-01-05,100
+2,Lápis,,Papelaria,2024-02-10,150
+3,Caderno,15.0,Papelaria,2024-03-01,
+4,Mochila,120.0,Escolar,2024-01-15,50
+5,Calculadora,85.0,Eletrônicos,,20
+6,Borracha,1.0,Papelaria,2024-01-20,200
+7,Estojo,25.0,Escolar,2024-02-05,80

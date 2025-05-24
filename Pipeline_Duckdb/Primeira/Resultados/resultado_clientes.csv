@@ -1,0 +1,50 @@
+id_cliente,nome_cliente,email,cidade,data_cadastro
+27,Cliente 27,cliente27@exemplo.com,São Paulo,2023-07-02
+28,Cliente 28,cliente28@exemplo.com,Rio de Janeiro,2023-07-09
+29,Cliente 29,cliente29@exemplo.com,Salvador,2023-07-16
+30,Cliente 30,cliente30@exemplo.com,São Paulo,2023-07-23
+31,Cliente 31,cliente31@exemplo.com,Belo Horizonte,2023-07-30
+32,Cliente 32,cliente32@exemplo.com,São Paulo,2023-08-06
+33,Cliente 33,cliente33@exemplo.com,Rio de Janeiro,2023-08-13
+34,Cliente 34,cliente34@exemplo.com,Rio de Janeiro,2023-08-20
+35,Cliente 35,cliente35@exemplo.com,Rio de Janeiro,2023-08-27
+36,Cliente 36,cliente36@exemplo.com,Salvador,2023-09-03
+37,Cliente 37,cliente37@exemplo.com,São Paulo,2023-09-10
+38,Cliente 38,cliente38@exemplo.com,Salvador,2023-09-17
+39,Cliente 39,cliente39@exemplo.com,Salvador,2023-09-24
+40,Cliente 40,cliente40@exemplo.com,Rio de Janeiro,2023-10-01
+41,Cliente 41,cliente41@exemplo.com,Rio de Janeiro,2023-10-08
+42,Cliente 42,cliente42@exemplo.com,Salvador,2023-10-15
+43,Cliente 43,cliente43@exemplo.com,São Paulo,2023-10-22
+44,Cliente 44,cliente44@exemplo.com,Belo Horizonte,2023-10-29
+45,Cliente 45,cliente45@exemplo.com,Salvador,2023-11-05
+46,Cliente 46,cliente46@exemplo.com,São Paulo,2023-11-12
+47,Cliente 47,cliente47@exemplo.com,Rio de Janeiro,2023-11-19
+48,Cliente 48,cliente48@exemplo.com,Rio de Janeiro,2023-11-26
+49,Cliente 49,cliente49@exemplo.com,São Paulo,2023-12-03
+50,Cliente 50,cliente50@exemplo.com,Belo Horizonte,2023-12-10
+51,Cliente 51,cliente51@exemplo.com,Rio de Janeiro,2023-12-17
+52,Cliente 52,cliente52@exemplo.com,Rio de Janeiro,2023-12-24
+53,Cliente 53,cliente53@exemplo.com,Rio de Janeiro,2023-12-31
+54,Cliente 54,cliente54@exemplo.com,São Paulo,2024-01-07
+55,Cliente 55,cliente55@exemplo.com,Salvador,2024-01-14
+56,Cliente 56,cliente56@exemplo.com,Rio de Janeiro,2024-01-21
+57,Cliente 57,cliente57@exemplo.com,Salvador,2024-01-28
+58,Cliente 58,cliente58@exemplo.com,Belo Horizonte,2024-02-04
+59,Cliente 59,cliente59@exemplo.com,Rio de Janeiro,2024-02-11
+60,Cliente 60,cliente60@exemplo.com,Rio de Janeiro,2024-02-18
+61,Cliente 61,cliente61@exemplo.com,Belo Horizonte,2024-02-25
+62,Cliente 62,cliente62@exemplo.com,Rio de Janeiro,2024-03-03
+63,Cliente 63,cliente63@exemplo.com,Salvador,2024-03-10
+64,Cliente 64,cliente64@exemplo.com,São Paulo,2024-03-17
+65,Cliente 65,cliente65@exemplo.com,Salvador,2024-03-24
+66,Cliente 66,cliente66@exemplo.com,São Paulo,2024-03-31
+67,Cliente 67,cliente67@exemplo.com,São Paulo,2024-04-07
+68,Cliente 68,cliente68@exemplo.com,Salvador,2024-04-14
+69,Cliente 69,cliente69@exemplo.com,Salvador,2024-04-21
+70,Cliente 70,cliente70@exemplo.com,Salvador,2024-04-28
+71,Cliente 71,cliente71@exemplo.com,Salvador,2024-05-05
+72,Cliente 72,cliente72@exemplo.com,Belo Horizonte,2024-05-12
+73,Cliente 73,cliente73@exemplo.com,Rio de Janeiro,2024-05-19
+74,Cliente 74,cliente74@exemplo.com,São Paulo,2024-05-26
+75,Cliente 75,cliente75@exemplo.com,Salvador,2024-06-02

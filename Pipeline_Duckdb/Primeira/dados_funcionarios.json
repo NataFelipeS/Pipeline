@@ -1,0 +1,352 @@
+[
+  {
+    "id_funcionario":1,
+    "nome":"Funcionario 1",
+    "departamento":"Vendas",
+    "salario":6558.12,
+    "data_admissao":1580428800000
+  },
+  {
+    "id_funcionario":2,
+    "nome":"Funcionario 2",
+    "departamento":"Financeiro",
+    "salario":8037.37,
+    "data_admissao":1582934400000
+  },
+  {
+    "id_funcionario":3,
+    "nome":"Funcionario 3",
+    "departamento":"Vendas",
+    "salario":6074.48,
+    "data_admissao":1585612800000
+  },
+  {
+    "id_funcionario":4,
+    "nome":"Funcionario 4",
+    "departamento":"Vendas",
+    "salario":10338.16,
+    "data_admissao":1588204800000
+  },
+  {
+    "id_funcionario":5,
+    "nome":"Funcionario 5",
+    "departamento":"TI",
+    "salario":3979.13,
+    "data_admissao":1590883200000
+  },
+  {
+    "id_funcionario":6,
+    "nome":"Funcionario 6",
+    "departamento":"Vendas",
+    "salario":3062.22,
+    "data_admissao":1593475200000
+  },
+  {
+    "id_funcionario":7,
+    "nome":"Funcionario 7",
+    "departamento":"RH",
+    "salario":10534.73,
+    "data_admissao":1596153600000
+  },
+  {
+    "id_funcionario":8,
+    "nome":"Funcionario 8",
+    "departamento":"RH",
+    "salario":5331.29,
+    "data_admissao":1598832000000
+  },
+  {
+    "id_funcionario":9,
+    "nome":"Funcionario 9",
+    "departamento":"Financeiro",
+    "salario":3851.29,
+    "data_admissao":1601424000000
+  },
+  {
+    "id_funcionario":10,
+    "nome":"Funcionario 10",
+    "departamento":"Vendas",
+    "salario":7761.41,
+    "data_admissao":1604102400000
+  },
+  {
+    "id_funcionario":11,
+    "nome":"Funcionario 11",
+    "departamento":"Financeiro",
+    "salario":3609.22,
+    "data_admissao":1606694400000
+  },
+  {
+    "id_funcionario":12,
+    "nome":"Funcionario 12",
+    "departamento":"RH",
+    "salario":13639.41,
+    "data_admissao":1609372800000
+  },
+  {
+    "id_funcionario":13,
+    "nome":"Funcionario 13",
+    "departamento":"Vendas",
+    "salario":3331.4,
+    "data_admissao":1612051200000
+  },
+  {
+    "id_funcionario":14,
+    "nome":"Funcionario 14",
+    "departamento":"Vendas",
+    "salario":9946.38,
+    "data_admissao":1614470400000
+  },
+  {
+    "id_funcionario":15,
+    "nome":"Funcionario 15",
+    "departamento":"Financeiro",
+    "salario":8261.69,
+    "data_admissao":1617148800000
+  },
+  {
+    "id_funcionario":16,
+    "nome":"Funcionario 16",
+    "departamento":"RH",
+    "salario":11064.31,
+    "data_admissao":1619740800000
+  },
+  {
+    "id_funcionario":17,
+    "nome":"Funcionario 17",
+    "departamento":"Vendas",
+    "salario":6937.83,
+    "data_admissao":1622419200000
+  },
+  {
+    "id_funcionario":18,
+    "nome":"Funcionario 18",
+    "departamento":"Financeiro",
+    "salario":4860.5,
+    "data_admissao":1625011200000
+  },
+  {
+    "id_funcionario":19,
+    "nome":"Funcionario 19",
+    "departamento":"RH",
+    "salario":14782.09,
+    "data_admissao":1627689600000
+  },
+  {
+    "id_funcionario":20,
+    "nome":"Funcionario 20",
+    "departamento":"Financeiro",
+    "salario":13067.2,
+    "data_admissao":1630368000000
+  },
+  {
+    "id_funcionario":21,
+    "nome":"Funcionario 21",
+    "departamento":"TI",
+    "salario":13324.86,
+    "data_admissao":1632960000000
+  },
+  {
+    "id_funcionario":22,
+    "nome":"Funcionario 22",
+    "departamento":"Vendas",
+    "salario":6003.02,
+    "data_admissao":1635638400000
+  },
+  {
+    "id_funcionario":23,
+    "nome":"Funcionario 23",
+    "departamento":"TI",
+    "salario":3466.02,
+    "data_admissao":1638230400000
+  },
+  {
+    "id_funcionario":24,
+    "nome":"Funcionario 24",
+    "departamento":"RH",
+    "salario":6639.19,
+    "data_admissao":1640908800000
+  },
+  {
+    "id_funcionario":25,
+    "nome":"Funcionario 25",
+    "departamento":"TI",
+    "salario":9444.99,
+    "data_admissao":1643587200000
+  },
+  {
+    "id_funcionario":26,
+    "nome":"Funcionario 26",
+    "departamento":"TI",
+    "salario":6919.81,
+    "data_admissao":1646006400000
+  },
+  {
+    "id_funcionario":27,
+    "nome":"Funcionario 27",
+    "departamento":"RH",
+    "salario":12934.43,
+    "data_admissao":1648684800000
+  },
+  {
+    "id_funcionario":28,
+    "nome":"Funcionario 28",
+    "departamento":"Financeiro",
+    "salario":6258.51,
+    "data_admissao":1651276800000
+  },
+  {
+    "id_funcionario":29,
+    "nome":"Funcionario 29",
+    "departamento":"TI",
+    "salario":14583.02,
+    "data_admissao":1653955200000
+  },
+  {
+    "id_funcionario":30,
+    "nome":"Funcionario 30",
+    "departamento":"Financeiro",
+    "salario":8487.18,
+    "data_admissao":1656547200000
+  },
+  {
+    "id_funcionario":31,
+    "nome":"Funcionario 31",
+    "departamento":"TI",
+    "salario":13104.28,
+    "data_admissao":1659225600000
+  },
+  {
+    "id_funcionario":32,
+    "nome":"Funcionario 32",
+    "departamento":"Financeiro",
+    "salario":5332.56,
+    "data_admissao":1661904000000
+  },
+  {
+    "id_funcionario":33,
+    "nome":"Funcionario 33",
+    "departamento":"RH",
+    "salario":7936.25,
+    "data_admissao":1664496000000
+  },
+  {
+    "id_funcionario":34,
+    "nome":"Funcionario 34",
+    "departamento":"TI",
+    "salario":11394.15,
+    "data_admissao":1667174400000
+  },
+  {
+    "id_funcionario":35,
+    "nome":"Funcionario 35",
+    "departamento":"RH",
+    "salario":4660.24,
+    "data_admissao":1669766400000
+  },
+  {
+    "id_funcionario":36,
+    "nome":"Funcionario 36",
+    "departamento":"TI",
+    "salario":4592.95,
+    "data_admissao":1672444800000
+  },
+  {
+    "id_funcionario":37,
+    "nome":"Funcionario 37",
+    "departamento":"RH",
+    "salario":14634.44,
+    "data_admissao":1675123200000
+  },
+  {
+    "id_funcionario":38,
+    "nome":"Funcionario 38",
+    "departamento":"RH",
+    "salario":11575.14,
+    "data_admissao":1677542400000
+  },
+  {
+    "id_funcionario":39,
+    "nome":"Funcionario 39",
+    "departamento":"TI",
+    "salario":3492.81,
+    "data_admissao":1680220800000
+  },
+  {
+    "id_funcionario":40,
+    "nome":"Funcionario 40",
+    "departamento":"TI",
+    "salario":7785.85,
+    "data_admissao":1682812800000
+  },
+  {
+    "id_funcionario":41,
+    "nome":"Funcionario 41",
+    "departamento":"TI",
+    "salario":8202.25,
+    "data_admissao":1685491200000
+  },
+  {
+    "id_funcionario":42,
+    "nome":"Funcionario 42",
+    "departamento":"Vendas",
+    "salario":11928.51,
+    "data_admissao":1688083200000
+  },
+  {
+    "id_funcionario":43,
+    "nome":"Funcionario 43",
+    "departamento":"Financeiro",
+    "salario":6010.33,
+    "data_admissao":1690761600000
+  },
+  {
+    "id_funcionario":44,
+    "nome":"Funcionario 44",
+    "departamento":"Vendas",
+    "salario":5212.0,
+    "data_admissao":1693440000000
+  },
+  {
+    "id_funcionario":45,
+    "nome":"Funcionario 45",
+    "departamento":"Vendas",
+    "salario":3970.48,
+    "data_admissao":1696032000000
+  },
+  {
+    "id_funcionario":46,
+    "nome":"Funcionario 46",
+    "departamento":"RH",
+    "salario":8139.77,
+    "data_admissao":1698710400000
+  },
+  {
+    "id_funcionario":47,
+    "nome":"Funcionario 47",
+    "departamento":"TI",
+    "salario":11262.0,
+    "data_admissao":1701302400000
+  },
+  {
+    "id_funcionario":48,
+    "nome":"Funcionario 48",
+    "departamento":"Financeiro",
+    "salario":3698.32,
+    "data_admissao":1703980800000
+  },
+  {
+    "id_funcionario":49,
+    "nome":"Funcionario 49",
+    "departamento":"RH",
+    "salario":13982.56,
+    "data_admissao":1706659200000
+  },
+  {
+    "id_funcionario":50,
+    "nome":"Funcionario 50",
+    "departamento":"Vendas",
+    "salario":8308.23,
+    "data_admissao":1709164800000
+  }
+]
