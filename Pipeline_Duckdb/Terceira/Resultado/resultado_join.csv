@@ -1,0 +1,201 @@
+id_cliente,cidade,id_compra,valor
+43,São Paulo,1,513.29
+85,Rio de Janeiro,2,994.03
+76,Rio de Janeiro,3,775.31
+69,São Paulo,4,1559.94
+7,Salvador,5,2865.79
+69,São Paulo,6,3435.31
+48,Salvador,7,1530.64
+4,São Paulo,8,5708.6
+77,Salvador,9,7808.3
+53,Rio de Janeiro,10,1114.27
+79,Rio de Janeiro,11,2978.05
+16,São Paulo,12,693.01
+21,Belo Horizonte,13,747.86
+100,São Paulo,14,3874.93
+59,São Paulo,15,11411.85
+24,Belo Horizonte,16,11266.26
+80,Belo Horizonte,17,2794.79
+14,Salvador,18,4420.64
+86,Salvador,19,9009.96
+49,Belo Horizonte,20,1980.52
+50,Salvador,21,1789.35
+70,São Paulo,22,5548.99
+42,Salvador,23,3708.44
+36,Rio de Janeiro,24,4927.09
+65,Salvador,25,10206.15
+96,São Paulo,26,3310.39
+70,São Paulo,27,4145.57
+95,Salvador,28,3733.23
+1,São Paulo,29,1156.76
+51,São Paulo,30,366.88
+37,Belo Horizonte,31,1049.2
+35,Salvador,32,350.94
+49,Belo Horizonte,33,787.8
+94,Belo Horizonte,34,5069.18
+4,São Paulo,35,1614.87
+99,Rio de Janeiro,36,3175.83
+43,São Paulo,37,1984.51
+78,São Paulo,38,6717.25
+22,Salvador,39,582.45
+74,São Paulo,40,5347.32
+1,São Paulo,41,4672.32
+11,Rio de Janeiro,42,1191.06
+44,Rio de Janeiro,43,1523.97
+59,São Paulo,44,2946.76
+24,Belo Horizonte,45,809.49
+60,Salvador,46,1185.54
+3,Rio de Janeiro,47,929.65
+99,Rio de Janeiro,48,2997.59
+63,Salvador,49,5022.81
+36,Rio de Janeiro,50,2440.37
+95,Salvador,51,5868.21
+68,São Paulo,52,4669.99
+83,São Paulo,53,4027.94
+47,Salvador,54,9701.3
+100,São Paulo,55,1217.19
+21,Belo Horizonte,56,2082.36
+82,Salvador,57,3612.34
+51,São Paulo,58,3876.8
+28,Rio de Janeiro,59,2787.95
+15,Belo Horizonte,60,10305.71
+42,Salvador,61,6173.06
+59,São Paulo,62,5362.88
+66,São Paulo,63,9941.69
+37,Belo Horizonte,64,2240.86
+11,Rio de Janeiro,65,4190.15
+87,Rio de Janeiro,66,5819.64
+44,Rio de Janeiro,67,3459.5
+12,Belo Horizonte,68,3758.54
+3,Rio de Janeiro,69,4484.36
+52,Rio de Janeiro,70,5609.37
+81,Belo Horizonte,71,11272.5
+33,Salvador,72,845.98
+55,Salvador,73,1207.1
+1,São Paulo,74,6365.13
+39,Salvador,75,5403.01
+20,Rio de Janeiro,76,902.15
+47,Salvador,77,800.48
+43,São Paulo,78,3047.86
+57,Salvador,79,1519.58
+61,Salvador,80,8056.25
+78,São Paulo,81,1138.51
+31,Rio de Janeiro,82,4868.75
+25,São Paulo,83,5517.02
+3,Rio de Janeiro,84,1290.2
+4,São Paulo,85,7721.06
+95,Salvador,86,1455.49
+99,Rio de Janeiro,87,2370.62
+14,Salvador,88,1040.77
+41,Belo Horizonte,89,2072.34
+73,Belo Horizonte,90,4814.1
+20,Rio de Janeiro,91,1561.41
+96,São Paulo,92,959.1
+73,Belo Horizonte,93,8007.87
+27,Rio de Janeiro,94,1120.42
+67,Belo Horizonte,95,2241.33
+53,Rio de Janeiro,96,3421.1
+68,São Paulo,97,2737.61
+62,Belo Horizonte,98,3381.41
+15,Belo Horizonte,99,3213.93
+97,Belo Horizonte,100,2222.94
+5,Salvador,101,342.8
+68,São Paulo,102,2126.42
+12,Belo Horizonte,103,964.74
+87,Rio de Janeiro,104,6458.88
+78,São Paulo,105,2156.31
+76,Rio de Janeiro,106,5622.21
+57,Salvador,107,2048.53
+17,São Paulo,108,5591.18
+25,São Paulo,109,8474.5
+30,São Paulo,110,2394.29
+22,Salvador,111,1560.37
+26,Rio de Janeiro,112,2884.74
+81,Belo Horizonte,113,1240.24
+61,Salvador,114,467.92
+62,Belo Horizonte,115,2940.76
+84,Rio de Janeiro,116,2122.35
+34,São Paulo,117,3400.95
+33,Salvador,118,2900.13
+71,Rio de Janeiro,119,1781.75
+86,Salvador,120,5859.36
+32,São Paulo,121,3566.9
+14,Salvador,122,11652.87
+72,Rio de Janeiro,123,521.83
+57,Salvador,124,5350.65
+25,São Paulo,125,8619.86
+80,Belo Horizonte,126,3622.17
+42,Salvador,127,5390.21
+19,Belo Horizonte,128,353.83
+41,Belo Horizonte,129,1914.35
+55,Salvador,130,1055.67
+80,Belo Horizonte,131,11618.61
+12,Belo Horizonte,132,1766.61
+39,Salvador,133,2714.3
+94,Belo Horizonte,134,1056.81
+2,Salvador,135,10715.11
+96,São Paulo,136,4758.33
+45,Salvador,137,3161.65
+89,Salvador,138,3665.4
+25,São Paulo,139,6549.03
+68,São Paulo,140,8518.96
+83,São Paulo,141,10757.2
+4,São Paulo,142,8254.53
+77,Salvador,143,1953.18
+36,Rio de Janeiro,144,6760.99
+87,Rio de Janeiro,145,2672.34
+62,Belo Horizonte,146,1589.94
+70,São Paulo,147,2583.28
+88,Rio de Janeiro,148,7766.66
+44,Rio de Janeiro,149,2906.9
+33,Salvador,150,2869.27
+12,Belo Horizonte,151,171.13
+85,Rio de Janeiro,152,6873.56
+11,Rio de Janeiro,153,2294.68
+55,Salvador,154,4673.57
+38,Salvador,155,1091.04
+29,Rio de Janeiro,156,2667.94
+3,Rio de Janeiro,157,2727.9
+28,Rio de Janeiro,158,249.37
+84,Rio de Janeiro,159,5819.41
+90,Belo Horizonte,160,8414.37
+24,Belo Horizonte,161,776.62
+54,Rio de Janeiro,162,3761.4
+52,Rio de Janeiro,163,4989.94
+47,Salvador,164,2200.03
+21,Belo Horizonte,165,2455.43
+54,Rio de Janeiro,166,1517.09
+30,São Paulo,167,5676.37
+68,São Paulo,168,11676.16
+36,Rio de Janeiro,169,2518.07
+40,São Paulo,170,5505.79
+10,Salvador,171,6105.38
+74,São Paulo,172,1377.93
+42,Salvador,173,4173.53
+24,Belo Horizonte,174,5942.81
+4,São Paulo,175,368.78
+47,Salvador,176,8299.92
+91,Salvador,177,3346.25
+51,São Paulo,178,11897.24
+4,São Paulo,179,3633.0
+32,São Paulo,180,9757.36
+10,Salvador,181,2873.84
+11,Rio de Janeiro,182,7493.37
+28,Rio de Janeiro,183,6653.77
+46,Rio de Janeiro,184,8019.2
+72,Rio de Janeiro,185,7956.93
+40,São Paulo,186,3156.24
+62,Belo Horizonte,187,1272.83
+86,Salvador,188,6717.91
+98,Salvador,189,5708.73
+45,Salvador,190,3600.4
+35,Salvador,191,6688.7
+35,Salvador,192,1352.0
+89,Salvador,193,6222.07
+34,São Paulo,194,932.65
+6,Salvador,195,449.26
+37,Belo Horizonte,196,436.69
+1,São Paulo,197,1634.58
+76,Rio de Janeiro,198,3053.44
+35,Salvador,199,814.95
+70,São Paulo,200,1732.07
