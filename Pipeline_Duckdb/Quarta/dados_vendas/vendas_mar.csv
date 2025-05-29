@@ -1,0 +1,6 @@
+id_venda,produto,quantidade,preco_unitario,data_venda
+3001,Notebook,1,3500,2024-03-01
+3002,Mouse,2,80,2024-03-08
+3003,Teclado,1,120,2024-03-15
+3004,Monitor,1,900,2024-03-22
+3005,Cadeira,2,600,2024-03-29
